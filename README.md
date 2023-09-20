@@ -1,7 +1,7 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="https://tenor.com/view/welcome-gif-12515796881653540648">
+	<img src="https://cdn.discordapp.com/attachments/1051126580908404757/1154022509927223369/welcome-welcome-to-the-team.gif">
 </div>
 
 ## About me :mortar_board:
