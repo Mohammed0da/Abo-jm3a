@@ -12,13 +12,12 @@ I am a high school student😁. I have been learning programming for a year👨�
 	- Python ❤️
 	- C++
 	- Javascript
-        - HTML 
-- **Frontend Development**
+	- HTML
+   - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
 	- React with Redux :electron:
 	- React Native
-
 ## What I want to do next :thinking:
 - Make discord bot
 - I learn HTML , CSS
