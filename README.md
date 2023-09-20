@@ -1,17 +1,18 @@
 # Welcome to my github! 👋
 
 <div align="center">
-	<img src="https://raw.githubusercontent.com/Sarthakbh321/sarthakbh321/master/intro.gif">
+	<img src="https://tenor.com/view/welcome-gif-12515796881653540648">
 </div>
 
 ## About me :mortar_board:
-I am a student, currently studying in Vellore Institute of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I am a high school student😁. I have been learning programming for a year👨🏼‍💻. I have entered the field of programming Discord bots😋, and I have created several Discord bots for my private server.
 
 ## What I know :computer:
 - **Competitive Programming**
 	- Python ❤️
 	- C++
-	- Some Java
+	- Javascript
+        - HTML 
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
@@ -19,8 +20,8 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 	- React Native
 
 ## What I want to do next :thinking:
-- Backend Development (to become a Full-Stack developer)
-- At least delve into AI and ML.
+- Make discord bot
+- I learn HTML , CSS
 - Unlock the secret to the universe :rofl:
 
 ## Reach me 
@@ -37,4 +38,4 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 Thanks for stopping by! 😁
 
 
-⭐️ From [Sarthakbh321](https://github.com/Abo-jm3a)
+⭐️ From [Abo-jm3a](https://github.com/Abo-jm3a)
